@@ -51,3 +51,6 @@ In subscription models (SaaS, streaming, etc.), churn directly hits recurring re
 ---
 
 ## 📂 Folder Structure  
+
+Built by [Ishita Vasishth](https://www.linkedin.com/in/ishitavasishth/)  
+Analytics | Predictive Insights | Curious Human
